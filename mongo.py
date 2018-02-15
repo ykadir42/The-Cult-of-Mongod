@@ -1,3 +1,8 @@
+# Ibnul Jahan and Jawadul Kadir
+# SoftDev2 pd7
+# K04 -- Mi only nyam ital food, mon!
+# 2018-02-14  
+
 from pymongo import MongoClient
 
 #connects to server
